@@ -1,0 +1,1 @@
+This is a program that i created while in college for game development as a way to learn c++, the program is pretty simple and the instructions are basic when the program is started, this program may be updated with more advanced features as I learn more about programming.
